@@ -1,0 +1,6 @@
+e:\users\muhammad\documents\visual studio 2013\Projects\DevTest\DevTest\bin\Debug\DevTest.exe.config
+e:\users\muhammad\documents\visual studio 2013\Projects\DevTest\DevTest\bin\Debug\DevTest.exe
+e:\users\muhammad\documents\visual studio 2013\Projects\DevTest\DevTest\bin\Debug\DevTest.pdb
+e:\users\muhammad\documents\visual studio 2013\Projects\DevTest\DevTest\obj\Debug\DevTest.csprojResolveAssemblyReference.cache
+e:\users\muhammad\documents\visual studio 2013\Projects\DevTest\DevTest\obj\Debug\DevTest.exe
+e:\users\muhammad\documents\visual studio 2013\Projects\DevTest\DevTest\obj\Debug\DevTest.pdb
